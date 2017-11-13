@@ -1,4 +1,8 @@
 farmand er ikke en bitch
 Is that a weed?!
+<<<<<<< HEAD
 hejsa
-Nicki er en sexet kælling. Jeg tror jeg har en fejl 40
+Nicki er en sexet kælling.
+=======
+Banke banke på
+>>>>>>> branch 'master' of https://github.com/Nicki1994/Nicki-sbitches.git
