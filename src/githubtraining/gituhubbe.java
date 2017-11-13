@@ -6,4 +6,4 @@ public static void main (String[] args) {
 	System.out.println("Fager was here, fwaggots");
 }
 	// Fucking hell man kan det her
-}
+} //Tissemand
